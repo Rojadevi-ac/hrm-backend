@@ -140,6 +140,5 @@ Step 5️⃣ – Deploy on Render
 5. Click “Deploy”.
 
 # After deployment:
-Base URL → https://your-app-name.onrender.com/api
-Swagger Docs → https://your-app-name.onrender.com/api-docs
+Base URL → https://hrm-backend-9qxz.onrender.com
 
